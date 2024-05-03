@@ -2,7 +2,7 @@ vim9script
 
 # pnevma.vim -- vim colorscheme
 # Author:       Anjeel
-# Description:  https://github.com/anjeelcain/pnevma.vim
+# Description:  https://github.com/xeinye/pnevma.vim
 
 highlight clear
 
