@@ -10,6 +10,7 @@ if exists('syntax_on')
         syntax reset
     endif
 set background=dark
+set termguicolors
 const g:colors_name = 'pnevma'
 
 # Helper functions {{{ 
